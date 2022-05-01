@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  background-color: purple;
+  color: white;
+  padding: 15px;
+}
+
+.side-bar {
+  float: left;
+  width: 25%;
+  padding: 15px;
+}
+
+.main-page {
+  float: left;
+  width: 75%;
+  padding: 15px;
+}
