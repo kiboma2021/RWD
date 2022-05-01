@@ -31,3 +31,29 @@ header {
 .col-10 {width: 83.33%;}
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
+
+html {
+  font-family: "Lucida Sans", sans-serif;
+}
+
+.menu {
+  background-color: blue;
+}
+
+.menu ul {
+  list-style-type: none;
+}
+
+.menu li {
+  padding: 10px;
+  background-color: brown;
+  margin: 10px;
+}
+
+.menu a {
+  color: white;
+}
+
+.main-page {
+  background-color: rgb(145, 141, 141);
+}
